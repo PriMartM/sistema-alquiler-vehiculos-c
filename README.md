@@ -2,7 +2,7 @@
 
 ![Imagen ilustrativa de una persona utilizando el sistema](imagenilustrativadepersonausandoelsistema.jpg)
 
-Este repositorio contiene el código fuente del Trabajo Práctico Integrador (TPI) de la materia **Programación Estructurada** (Ciclo Lectivo 2026), correspondiente a la carrera de Ingeniería en Informática de la **Universidad Gastón Dachary** (Sede Campus Urbano — Posadas, Misiones).
+Este repositorio contiene el código fuente del Trabajo Práctico Integrador (TPI) de la materia **Programación Estructurada** (Ciclo Lectivo 2026), correspondiente a la carrera de Ingeniería en Informática de la **Universidad Gastón Dachary** .
 
 El proyecto consiste en una aplicación de consola desarrollada en lenguaje C estándar para la gestión integral de una empresa de alquiler de automóviles. Permite administrar el parque automotor, el padrón de clientes, los contratos de alquiler, las devoluciones con cálculo de mora o reintegros, los cobros y el libro diario contable.
 
@@ -156,7 +156,7 @@ A continuación, se presentan las capturas de los diferentes módulos que compon
 
 ### Gestión de Alquileres
 
-![Menú de gestión de alquileres](menudealquileres.png)
+![Menú de gestión de alquileres](menualquileres.png)
 
 ### Gestión de Devoluciones
 
@@ -180,12 +180,6 @@ Este proyecto fue desarrollado por:
 - **Martinez, Mariana Priscila** — Matrícula: 67869.
 - **Moreno, Francisco** — Matrícula: 67617.
 - **Scheuermann, Renata** — Matrícula: 67613.
-
-### Equipo Docente
-
-- **Prof. Titular:** Mg. Ing. Karina B. Eckert.
-- **Docente Adjunta:** Ing. Gabriela Barros.
-- **Docente Auxiliar:** Ing. Lucas Miguel Rodoni.
 
 ---
 

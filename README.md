@@ -1,6 +1,6 @@
 # Sistema de Gestión de Alquiler de Vehículos (TPI PE 2026)
 
-![Imagen ilustrativa de una persona utilizando el sistema](imagenilustrativadepersonausandoelsistema.png)
+![Imagen ilustrativa de una persona utilizando el sistema](imagenilustrativadepersonausandoelsistema.jpg)
 
 Este repositorio contiene el código fuente del Trabajo Práctico Integrador (TPI) de la materia **Programación Estructurada** (Ciclo Lectivo 2026), correspondiente a la carrera de Ingeniería en Informática de la **Universidad Gastón Dachary** (Sede Campus Urbano — Posadas, Misiones).
 
@@ -148,7 +148,7 @@ A continuación, se presentan las capturas de los diferentes módulos que compon
 
 ### Gestión de Clientes
 
-![Menú de gestión de clientes](menuclientes.png)
+![Menú de gestión de clientes](menudeclientes.png)
 
 ### Gestión de Vehículos
 
@@ -156,19 +156,19 @@ A continuación, se presentan las capturas de los diferentes módulos que compon
 
 ### Gestión de Alquileres
 
-![Menú de gestión de alquileres](menualquileres.png)
+![Menú de gestión de alquileres](menudealquileres.png)
 
 ### Gestión de Devoluciones
 
-![Menú de gestión de devoluciones](menudevoluciones.png)
+![Menú de gestión de devoluciones](menudedevoluciones.png)
 
 ### Gestión de Pagos
 
-![Menú de gestión de pagos](menupagos.png)
+![Menú de gestión de pagos](menudepagos.png)
 
 ### Consultas y Reportes
 
-![Menú de consultas y reportes](menuconsultasyreportes.png)
+![Menú de consultas y reportes](menudeconsultas.png)
 
 ---
 
